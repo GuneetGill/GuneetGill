@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Guneet Gill 👋. I am a software developer from Vancouver, BC, Canada, and I am currently pursuing a BSc in Computing Science and Information Systems at Simon Fraser University.
+
 
 <!--
 **GuneetGill/GuneetGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
