@@ -1,4 +1,6 @@
-## Hi, my name is Guneet Gill 👋. I am a software developer from Vancouver, BC, Canada, and I am currently pursuing a BSc in Computing Science and Information Systems at Simon Fraser University.
+## Hi, my name is Guneet Gill 👋
+
+I am a software developer from Vancouver, BC, Canada, and I am currently pursuing a BSc in Computing Science and Information Systems at Simon Fraser University.
 
 
 <!--
